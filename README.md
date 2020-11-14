@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 [![Наиболее используемые технологии](https://github-readme-stats.vercel.app/api/top-langs/?username=ole4kalobanova&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Меня зовут Оля и я начинающий разработчик. 
+Меня зовут Оля и я frontend-разработчик. 
 
-С начала 2020 года увлекаюсь и активно осваиваю frontend и backend разработку.
+С середины 2019 года увлекаюсь и активно осваиваю frontend и backend разработку.
 Стек применяемых технологий: JavaScript, React( с использованием Hooks и Redux), Node.js, Express.js, HTML5, CSS и пр.
 
 ⚡⚡⚡Сейчас в поиске проекта с интересными задачами и хорошей командой с возможностью профессионального роста⚡⚡⚡
