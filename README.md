@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ⚡⚡⚡**Сейчас в поиске проекта с интересными задачами и хорошей командой**⚡⚡⚡
 
 📲telegram: @ole4kalobanova
+
 📫linkedin: @[ole4kalobanova](https://www.linkedin.com/in/olga-lobanova/)
