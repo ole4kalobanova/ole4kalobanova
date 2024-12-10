@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 ⚡⚡⚡**Сейчас в поиске проекта с интересными задачами и хорошей командой**⚡⚡⚡
 
-📫e-mail: olga_ivanovna_lobanova@mail.ru
-
-📲telegram: @lobanova1993
+📲telegram: @ole4kalobanova
+📫linkedin: @[ole4kalobanova](https://www.linkedin.com/in/olga-lobanova/)
